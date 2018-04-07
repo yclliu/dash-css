@@ -2087,10 +2087,10 @@ footer hr {
 }
 
 .react-grid-Container, .react-grid-Toolbar, .react-grid-Main, .react-grid-Grid, .react-grid-Canvas, .react-grid-Cell, .react-grid-HeaderCel{
-    background-color: rgba(0,0,0,0);
+    background-color: rgba(0,0,0,0) !important;
 }
 .react-grid-Toolbar{
-    border: none;
+    border: none !important;
 }
 
 .react-grid-Main{
